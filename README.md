@@ -38,6 +38,10 @@ The entire project is driven by a single, highly organized Jupyter Notebook divi
 * **What it shows:** Compares the average PIR produced by heavy-minute players (e.g., 25+ minutes) versus rotation/bench players (0-25 minutes). 
 * **How to read it:** Identifies team dependency. A team with Dark Green in the 25+ column but Dark Red in the 0-25 column relies heavily on its starters. A team with Green in the 0-25 column possesses a highly efficient bench.
 
+## Example Output Table : Team PIR Allowed (Recent Form)
+
+![PIR Allowed Heatmap](output_tables/form_PIR_Allowed_R30.png)
+
 ## How to Use It
 
 **1. Project Structure Setup**
