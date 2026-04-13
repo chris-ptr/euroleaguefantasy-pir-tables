@@ -40,7 +40,7 @@ The entire project is driven by a single, highly organized Jupyter Notebook divi
 
 ## Example Output Table : Team PIR Allowed (Recent Form)
 
-![PIR Allowed Heatmap](output_tables/form_PIR_Allowed_R30.png)
+![PIR Allowed Heatmap](output_tables/form_PIR_Allowed_R37.png)
 
 ## How to Use It
 
